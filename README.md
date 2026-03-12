@@ -236,21 +236,6 @@ class AstronautDev:
 
 ---
 
-<!-- ── SNAKE CONTRIBUTION GRAPH ───────────────────────────────────────── -->
-<div align="center">
-
-## 🐍 CONTRIBUTION SERPENT
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Adik-09/Adik-09/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adik-09/Adik-09/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/Adik-09/Adik-09/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-> ⚠️ _Enable the Snake action below to activate this animation_
-
-</div>
-
 <br/>
 
 ---
@@ -258,15 +243,6 @@ class AstronautDev:
 <!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
----
-
-<!-- ── SPACE SCENE FULL WIDTH ─────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Space GIF"/>
-
 </div>
 
 ---
