@@ -240,13 +240,6 @@ class AstronautDev:
 
 ---
 
-<!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
----
-
 <!-- ── CONTACT ─────────────────────────────────────────────────────────── -->
 <div align="center">
 
@@ -285,38 +278,3 @@ class AstronautDev:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06061a,25:1a1a5e,50:3b0764,100:06061a&height=140&section=footer&animation=twinkling" width="100%"/>
 
 ---
-
-<!--
-═══════════════════════════════════════════════════════════
-  🐍 SNAKE ANIMATION SETUP (one-time GitHub Actions setup)
-═══════════════════════════════════════════════════════════
-  1. In your Adik-09 repo, create this file:
-     .github/workflows/snake.yml
-
-  2. Paste this content:
-
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Adik-09
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run the action once manually from the Actions tab ✅
-═══════════════════════════════════════════════════════════
--->
