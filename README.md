@@ -1,21 +1,20 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   SPACE × CS — GITHUB README                      -->
-<!--                        github.com/Adik-09                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                   SPACE × CS — ADIK-09 GITHUB README                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ── TOP WAVE BANNER ──────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06061a,30:1a1a5e,60:3b0764,100:06061a&height=220&section=header&text=HELLO%20FELLOW%20GALAXY%20MEMBER&fontSize=36&fontColor=a78bfa&animation=fadeIn&fontAlignY=40&desc=A%20Message%20From%20Earth%20%7C%20Transmission%20Origin%20%3A%20Pune%2C%20India%20%F0%9F%8C%8F&descAlignY=62&descSize=14&descColor=22d3ee" width="100%"/>
+<!-- ── ANIMATED WARP SPEED BANNER ──────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06061a,25:0d0d40,50:3b0764,75:1a1a5e,100:06061a&height=280&section=header&text=HELLO%20FELLOW%20GALAXY%20MEMBER&fontSize=40&fontColor=a78bfa&animation=twinkling&fontAlignY=42&desc=%E2%80%94%20A%20Message%20From%20Earth%20%7C%20Pune%2C%20India%20%F0%9F%8C%8F%20%E2%80%94&descAlignY=62&descSize=15&descColor=22d3ee" width="100%"/>
 
 <br/>
 
-<!-- ── VISITOR + FOLLOW ──────────────────────────────────────────────── -->
+<!-- ── VISITOR BADGE ROW ────────────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Adik-09&style=for-the-badge&color=7c3aed&labelColor=06061a&label=COSMIC+VISITORS"/>
+[![Visitors](https://komarev.com/ghpvc/?username=Adik-09&style=for-the-badge&color=7c3aed&labelColor=06061a&label=COSMIC+VISITORS)](https://github.com/Adik-09)
 &nbsp;
-<a href="https://github.com/Adik-09?tab=followers">
-  <img src="https://img.shields.io/github/followers/Adik-09?label=Followers&style=for-the-badge&color=5b21b6&labelColor=06061a"/>
-</a>
+[![Followers](https://img.shields.io/github/followers/Adik-09?label=Followers&style=for-the-badge&color=5b21b6&labelColor=06061a)](https://github.com/Adik-09?tab=followers)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-ONLINE%20🟢-06061a?style=for-the-badge&labelColor=06061a&color=22d3ee)
 
 </div>
 
@@ -23,16 +22,23 @@
 
 ---
 
-<!-- ── ASTRONAUT + TYPING ─────────────────────────────────────────────── -->
+<!-- ── ASTRONAUT HERO SECTION ───────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="110px"/>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120px" alt="Coding Astronaut"/>
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+AM+ADITYA" alt="I AM ADITYA"/>
-</h2>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=🌌+3rd+Year+CS+Engineer+%40+Pune;🎮+Unreal+Engine+5+Game+Developer;🌐+Django+Full-Stack+Web+Developer;🤖+Machine+Learning+Explorer;⚙️+C%2B%2B+Systems+%26+Compiler+Craftsman;🛸+Building+things+that+didn't+exist+yesterday" alt="Roles"/>
+<!-- GLOWING NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+AM+ADITYA" alt="Name"/>
+
+<!-- CYAN SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=13&pause=500&color=22D3EE&center=true&vCenter=true&width=480&lines=︙+ADIK-09+︙+CS+ENGINEER+︙+PUNE+︙" alt="subtitle"/>
+
+<br/><br/>
+
+<!-- ROLE SWITCHER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=17&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=🎮+Unreal+Engine+5+Game+Developer;🌐+Django+Full-Stack+Web+Developer;🤖+Machine+Learning+Explorer;⚙️+C%2B%2B+Compiler+%26+Systems+Craftsman;🛸+Building+things+that+didn%27t+exist+yesterday...;🌌+Exploring+the+digital+universe+from+Pune" alt="Roles"/>
 
 </div>
 
@@ -40,12 +46,20 @@
 
 ---
 
-<!-- ── MISSION PROFILE ────────────────────────────────────────────────── -->
+<!-- ── SPACE DIVIDER GIF ────────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06061a,100:1a1a5e&height=2&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-### `// TRANSMISSION RECEIVED`
-# 🪐 MISSION PROFILE
+---
+
+<!-- ── MISSION PROFILE CODE BLOCK ─────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=9999&color=475569&center=true&vCenter=true&width=300&lines=%2F%2F+TRANSMISSION+RECEIVED" alt="tag"/>
+
+## 🪐 MISSION PROFILE
+
 </div>
 
 ```python
@@ -55,11 +69,11 @@ class AstronautDev:
     location    = "Pune, India 🌏"
     year        = "3rd Year · CS Engineering"
 
-    # ── Active Mission Tracks ──────────────────────────────────────
+    # ── Active Mission Tracks ─────────────────────────────────────────
     game_dev    = ["Unreal Engine 5", "C++", "Blueprints", "3D Level Design"]
     web_dev     = ["Django", "REST APIs", "HTML / CSS / JS", "PostgreSQL"]
     ml          = ["Python", "Scikit-Learn", "NumPy", "Pandas", "Jupyter"]
-    systems     = ["C++", "SSA Compiler Design", "Data Structures"]
+    systems     = ["C++", "SSA Compiler Design", "Data Structures & Algos"]
 
     current_mission = "Building things that didn't exist yesterday 🛸"
     fun_fact        = "I debug code at 2AM with lo-fi music 🎵"
@@ -68,14 +82,33 @@ class AstronautDev:
 
 <br/>
 
+<!-- ── STATS BANNER IMAGE ───────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding GIF"/>
+</div>
+
+<br/>
+
 ---
 
-<!-- ── SKILL CONSTELLATION ────────────────────────────────────────────── -->
+<!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ── SKILL CONSTELLATION ─────────────────────────────────────────────── -->
 <div align="center">
 
-### `// TECH ARSENAL`
-# 🛸 SKILL CONSTELLATION
+## 🛸 SKILL CONSTELLATION
 
+<!-- ANIMATED SKILL ICONS (skillicons.dev) -->
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,django,postgres,git,github,vscode,linux,unreal&theme=dark&perline=6" alt="Skills"/>
+
+<br/><br/>
+
+<!-- BADGE GROUPS -->
 #### 🌠 Languages
 ![Python](https://img.shields.io/badge/Python-06061a?style=for-the-badge&logo=python&logoColor=ffd700)
 ![C++](https://img.shields.io/badge/C++-06061a?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
@@ -94,7 +127,6 @@ class AstronautDev:
 ![NumPy](https://img.shields.io/badge/NumPy-06061a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
 ![Pandas](https://img.shields.io/badge/Pandas-06061a?style=for-the-badge&logo=pandas&logoColor=e70488)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-06061a?style=for-the-badge&logo=scikit-learn&logoColor=f89939)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-06061a?style=for-the-badge&logo=python&logoColor=22d3ee)
 
 #### ⚙️ Dev Tools & Orbit
 ![Git](https://img.shields.io/badge/Git-06061a?style=for-the-badge&logo=git&logoColor=f05032)
@@ -109,11 +141,19 @@ class AstronautDev:
 
 ---
 
-<!-- ── LAUNCH PADS ──────────────────────────────────────────────────── -->
+<!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ── LAUNCH PADS ─────────────────────────────────────────────────────── -->
 <div align="center">
 
-### `// ACTIVE MISSIONS`
-# 🚀 LAUNCH PADS
+## 🚀 LAUNCH PADS
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" alt="rocket"/>
 
 </div>
 
@@ -124,14 +164,14 @@ class AstronautDev:
       <a href="https://github.com/Adik-09/ML_LABS">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=ML_LABS&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>Machine Learning experiments & notebooks</i></sub>
+      <br/><sub><i>Machine Learning experiments & notebooks 🧠</i></sub>
     </td>
     <td width="50%" align="center">
       <h3>📈 PROJECT STOCK</h3>
       <a href="https://github.com/Adik-09/Project_Stock">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=Project_Stock&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>Real-time stock tracking web app</i></sub>
+      <br/><sub><i>Real-time stock tracking web app 📊</i></sub>
     </td>
   </tr>
   <tr>
@@ -140,14 +180,14 @@ class AstronautDev:
       <a href="https://github.com/Adik-09/Project_Chat">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=Project_Chat&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>Real-time chat application</i></sub>
+      <br/><sub><i>Real-time chat application 💬</i></sub>
     </td>
     <td width="50%" align="center">
       <h3>⚙️ SSA COMPILER</h3>
       <a href="https://github.com/Adik-09/ssa-compiler">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=ssa-compiler&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>C++ compiler using SSA form</i></sub>
+      <br/><sub><i>C++ compiler using SSA form ⚙️</i></sub>
     </td>
   </tr>
   <tr>
@@ -156,14 +196,14 @@ class AstronautDev:
       <a href="https://github.com/Adik-09/project_ecommerce">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=project_ecommerce&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>Full-stack e-commerce platform</i></sub>
+      <br/><sub><i>Full-stack e-commerce platform 🛒</i></sub>
     </td>
     <td width="50%" align="center">
       <h3>🔥 STRIX 19 FUSION</h3>
       <a href="https://github.com/Adik-09/strix_19_fusion">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=strix_19_fusion&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>Multi-stack interactive fusion project</i></sub>
+      <br/><sub><i>Multi-stack interactive fusion project 🔥</i></sub>
     </td>
   </tr>
 </table>
@@ -172,25 +212,33 @@ class AstronautDev:
 
 ---
 
-<!-- ── MISSION CONTROL STATS ──────────────────────────────────────────── -->
+<!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ── COMMAND STATS ────────────────────────────────────────────────────── -->
 <div align="center">
 
-### `// MISSION CONTROL`
-# 📡 COMMAND STATS
+## 📡 COMMAND STATS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adik-09&show_icons=true&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764&rank_icon=github&count_private=true&hide_border=false"/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&pause=9999&color=475569&center=true&vCenter=true&width=280&lines=%2F%2F+MISSION+CONTROL" alt="tag"/>&nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+
+<br/><br/>
+
+<!-- STATS + LANGS SIDE BY SIDE -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adik-09&show_icons=true&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764&rank_icon=github&count_private=true"/>
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adik-09&layout=donut&theme=tokyonight&bg_color=06061a&title_color=a78bfa&text_color=94a3b8&border_color=3b0764&langs_count=6"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
----
-
-<!-- ── SPACE SCENE ─────────────────────────────────────────────────────── -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="160px" style="object-fit:cover; border-radius:10px;"/>
+<!-- TROPHY CASE -->
+### 🏆 TROPHY CABINET
+<img src="https://github-profile-trophy.vercel.app/?username=Adik-09&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
@@ -198,11 +246,56 @@ class AstronautDev:
 
 ---
 
-<!-- ── CONTACT ────────────────────────────────────────────────────────── -->
+<!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ── SNAKE CONTRIBUTION GRAPH ───────────────────────────────────────── -->
 <div align="center">
 
-### `// OPEN COMMUNICATION CHANNEL`
-# 📻 REACH MY ORBIT
+## 🐍 CONTRIBUTION SERPENT
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Adik-09/Adik-09/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adik-09/Adik-09/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Adik-09/Adik-09/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+> ⚠️ _Enable the Snake action below to activate this animation_
+
+</div>
+
+<br/>
+
+---
+
+<!-- ── ANIMATED SPACE LINE ─────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ── SPACE SCENE FULL WIDTH ─────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Space GIF"/>
+
+</div>
+
+---
+
+<!-- ── CONTACT ─────────────────────────────────────────────────────────── -->
+<div align="center">
+
+## 📻 REACH MY ORBIT
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"/>
+
+<br/><br/>
 
 <a href="https://github.com/Adik-09">
   <img src="https://img.shields.io/badge/GitHub-Adik--09-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=06061a"/>
@@ -218,11 +311,53 @@ class AstronautDev:
 
 <br/><br/>
 
+<!-- QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+<br/><br/>
+
 > *"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
 >
 > **🌌 Building the next big thing... one commit at a time.**
 
 </div>
 
-<!-- ── BOTTOM WAVE ────────────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06061a,30:1a1a5e,60:3b0764,100:06061a&height=130&section=footer&animation=fadeIn" width="100%"/>
+<!-- ── BOTTOM WAVE ─────────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06061a,25:1a1a5e,50:3b0764,100:06061a&height=140&section=footer&animation=twinkling" width="100%"/>
+
+---
+
+<!--
+═══════════════════════════════════════════════════════════
+  🐍 SNAKE ANIMATION SETUP (one-time GitHub Actions setup)
+═══════════════════════════════════════════════════════════
+  1. In your Adik-09 repo, create this file:
+     .github/workflows/snake.yml
+
+  2. Paste this content:
+
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Adik-09
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Run the action once manually from the Actions tab ✅
+═══════════════════════════════════════════════════════════
+-->
