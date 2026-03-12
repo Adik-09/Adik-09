@@ -160,22 +160,6 @@ class AstronautDev:
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🤖 ML LABS</h3>
-      <a href="https://github.com/Adik-09/ML_LABS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=ML_LABS&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
-      </a>
-      <br/><sub><i>Machine Learning experiments & notebooks 🧠</i></sub>
-    </td>
-    <td width="50%" align="center">
-      <h3>📈 PROJECT STOCK</h3>
-      <a href="https://github.com/Adik-09/Project_Stock">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=Project_Stock&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
-      </a>
-      <br/><sub><i>Real-time stock tracking web app 📊</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <h3>💬 PROJECT CHAT</h3>
       <a href="https://github.com/Adik-09/Project_Chat">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=Project_Chat&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
@@ -197,13 +181,12 @@ class AstronautDev:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=project_ecommerce&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
       <br/><sub><i>Full-stack e-commerce platform 🛒</i></sub>
-    </td>
     <td width="50%" align="center">
-      <h3>🔥 STRIX 19 FUSION</h3>
-      <a href="https://github.com/Adik-09/strix_19_fusion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=strix_19_fusion&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
+      <h3>📈 PROJECT STOCK</h3>
+      <a href="https://github.com/Adik-09/Project_Stock">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adik-09&repo=Project_Stock&theme=tokyonight&bg_color=06061a&title_color=a78bfa&icon_color=7c3aed&text_color=94a3b8&border_color=3b0764" width="100%"/>
       </a>
-      <br/><sub><i>Multi-stack interactive fusion project 🔥</i></sub>
+      <br/><sub><i>Real-time stock tracking web app 📊</i></sub>
     </td>
   </tr>
 </table>
